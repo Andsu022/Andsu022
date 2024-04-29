@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andsu022
 - 👀 I’m interested to be a developer
-- 🌱 I’m currently learning C , Python and Front-end languages
+- 🌱 I’m currently learning Python Back-end frameworks 
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me on andersondev2102@gmail.com
 
