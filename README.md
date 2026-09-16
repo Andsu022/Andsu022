@@ -3,9 +3,7 @@
 <h3 align="center">Information Systems Student | Back-End Developer in Training</h3>
 
 <p align="center">
-   Information Systems student and Web Dev Back-end, i wish to become a great developer and i'm learning
-   through personal projects to solve real problems and hands-on experimentation. Currently focused on web
-   development, i want to build a strong base to the future.
+   I'm an Information Systems student passionate about software development, with a focus on Backend Development and Python. <br> I'm constantly learning and building projects to turn theory into practical experience.
 </p>
 
 
