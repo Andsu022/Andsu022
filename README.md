@@ -64,6 +64,6 @@ A Python project developed to practice programming logic, Object-Oriented Progra
   </a>
 </p>
 
-Inspired by Pechebiloski's Readme.
 
+Inspired by Pechebiloski's Readme.
 [View Profile](https://github.com/Pechebiloski)
