@@ -30,7 +30,7 @@ A personal web development study project focused on building a platform for sche
 
 Currently in development.
 
-<p align="center"> [View Project](https://github.com/Andsu022/Conecta_consultas) </p>
+[View Project](https://github.com/Andsu022/Conecta_consultas)
 
 ---
 
@@ -39,7 +39,7 @@ Currently in development.
 A Python project developed to practice programming logic, Object-Oriented Programming, user management, and graphical interfaces.
 
 
-<p align="center"> [View Project](https://github.com/Andsu022/Projeto-RU) </p>
+[View Project](https://github.com/Andsu022/Projeto-RU)
 
 ---
 
