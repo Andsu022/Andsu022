@@ -3,7 +3,7 @@
 <h3 align="center">Information Systems Student | Back-End Developer in Training</h3>
 
 <p align="center">
-   I'm an Information Systems student passionate about software development, with a focus on Backend Development and Python. <br> I'm constantly learning and building projects to turn theory into practical experience.
+   I'm an Information Systems student passionate about software development, with a focus on backend development and Python. <br> I'm constantly learning and building projects to turn theory into practical experience.
 </p>
 
 
@@ -25,7 +25,7 @@
 
 A personal web development study project focused on building a platform for scheduling medical appointments.
 
-Currently on development.
+Currently in development.
 
 [View Project](https://github.com/Andsu022/Conecta_consultas)
 
@@ -60,11 +60,9 @@ A Python project developed to practice programming logic, Object-Oriented Progra
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://github.com/Andsu022" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
-
----
 
 ---
 
