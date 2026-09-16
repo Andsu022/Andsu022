@@ -36,8 +36,9 @@ Currently on development.
 A Python project developed to practice programming logic, Object-Oriented Programming, user management, and graphical interfaces.
 
 
-  [View Project](https://github.com/Andsu022/Projeto-RU)
+[View Project](https://github.com/Andsu022/Projeto-RU)
 
+---
 
 <h2 align="center">📈 My Development Journey</h2>
 
@@ -63,5 +64,5 @@ A Python project developed to practice programming logic, Object-Oriented Progra
   </a>
 </p>
 
-<h2 align="center">Inspired by Pechebiloski's Readme </h2>
+Inspired by Pechebiloski's Readme
 [View Profile](https://github.com/Pechebiloski)
