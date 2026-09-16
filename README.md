@@ -6,6 +6,7 @@
    I'm an Information Systems student passionate about software development, with a focus on backend development and Python. <br> I'm constantly learning and building projects to turn theory into practical experience.
 </p>
 
+---
 
 <h2 align="center"> Skills & Technologies </h2>
 
@@ -18,6 +19,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
 </p>
+
+---
 
 <h2 align="center">Projects</h2>
 
@@ -44,11 +47,13 @@ A Python project developed to practice programming logic, Object-Oriented Progra
 
 <p align="center"> I believe that becoming a good developer is a continuous process. <br> My current goal is to strengthen my fundamentals, build real projects, <br> and gradually develop the skills required to work as a Backend Developer. </p>
 
+---
 
 <h2 align="center">🎯 Current Focus</h2>
 
 <p align="center"> <strong>Python • Backend Development • APIs • SQL • Software Development</strong> </p>
 
+---
 
 <h3 align="center">Let's connect</h3>
 
@@ -65,8 +70,3 @@ A Python project developed to practice programming logic, Object-Oriented Progra
 </p>
 
 ---
-
-<p align="center">
-  Inspired by <a href="https://github.com/Pechebiloski">Pechebiloski</a> 🚀
-</p>
-
