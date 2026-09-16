@@ -30,7 +30,7 @@ A personal web development study project focused on building a platform for sche
 
 Currently in development.
 
-[View Project](https://github.com/Andsu022/Conecta_consultas)
+<p align="center"> [View Project](https://github.com/Andsu022/Conecta_consultas) </p>
 
 ---
 
@@ -39,7 +39,7 @@ Currently in development.
 A Python project developed to practice programming logic, Object-Oriented Programming, user management, and graphical interfaces.
 
 
-[View Project](https://github.com/Andsu022/Projeto-RU)
+<p align="center"> [View Project](https://github.com/Andsu022/Projeto-RU) </p>
 
 ---
 
@@ -48,11 +48,9 @@ A Python project developed to practice programming logic, Object-Oriented Progra
 <p align="center"> I believe that becoming a good developer is a continuous process. <br> My current goal is to strengthen my fundamentals, build real projects, <br> and gradually develop the skills required to work as a Backend Developer. </p>
 
 
-
 <h2 align="center">🎯 Current Focus</h2>
 
 <p align="center"> <strong>Python • Backend Development • APIs • SQL • Software Development</strong> </p>
-
 
 
 <h3 align="center">Let's connect</h3>
