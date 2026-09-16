@@ -33,7 +33,7 @@ Currently on development.
 
 ---
 
-<h3 align="center"> University Restaurant System | Web Development Study </h3>
+<h3 align="center"> University Restaurant System </h3>
 
 A Python project developed to practice programming logic, Object-Oriented Programming, user management, and graphical interfaces.
 
