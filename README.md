@@ -42,6 +42,12 @@ A Python project developed to practice programming logic, Object-Oriented Progra
 [View Project](https://github.com/Andsu022/Projeto-RU)
 
 ---
+<h3 align="center"> ALC Bank </h3>
+
+A Python project developed to practice programming logic, Object-Oriented Programming and bank application.
+
+
+[View Project](https://github.com/Andsu022/ALC_Bank)
 
 <h2 align="center">📈 My Development Journey</h2>
 
